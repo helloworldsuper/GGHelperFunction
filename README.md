@@ -1,0 +1,2 @@
+# GGHelperFunction
+c++ helper function
