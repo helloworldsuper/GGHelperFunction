@@ -17,8 +17,3 @@ aux_source_directory(. SRC_LIST)
 
 # 指示变量 SRC_LIST 中的源文件需要编译成一个名称为 demo 的可执行文件
 add_executable(demo ${SRC_LIST})
-
-#wsl on windows
-#cmake .
-#make
-#./demo
